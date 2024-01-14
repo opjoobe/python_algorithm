@@ -9,3 +9,5 @@ class Solution:
             answer += num * cnt * (cnt + 1) // 2
         
         return answer
+    
+# 32ms (beats 99.36%)
